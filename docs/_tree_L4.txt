@@ -1,0 +1,21 @@
+├── src
+│   ├── App.jsx
+│   ├── PRDAgentCrew.jsx
+│   ├── main.jsx
+│   ├── index.css
+│   ├── components
+│   │   ├── ChatBubble.jsx
+│   │   └── SmallBtn.jsx
+│   ├── constants
+│   │   └── index.js
+│   ├── sections
+│   │   ├── DocumentAgent.jsx
+│   │   ├── InterviewerAgent.jsx
+│   │   ├── ProgressBar.jsx
+│   │   ├── ResearchAgent.jsx
+│   │   └── StartPage.jsx
+│   └── utils
+│       ├── callClaude.js
+│       └── renderMd.js
+├── package.json
+└── vite.config.js
