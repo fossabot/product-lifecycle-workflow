@@ -1,4 +1,6 @@
 # Product Lifecycle Workflow | نظام وركفلو دورة حياة المنتج
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCLOCKWORK-TEMPTATION%2Fproduct-lifecycle-workflow.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCLOCKWORK-TEMPTATION%2Fproduct-lifecycle-workflow?ref=badge_shield)
+
 
 نظام متكامل لإدارة دورة حياة تطوير المنتج من الفكرة حتى ما بعد الإطلاق.
 
@@ -98,3 +100,6 @@
 ## 📜 License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCLOCKWORK-TEMPTATION%2Fproduct-lifecycle-workflow.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCLOCKWORK-TEMPTATION%2Fproduct-lifecycle-workflow?ref=badge_large)
